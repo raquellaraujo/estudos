@@ -1,0 +1,13 @@
+#nome {
+  color: red;
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  font-variant: small-caps;
+}
+
+#nome2 {
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+}
