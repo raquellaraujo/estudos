@@ -11,3 +11,23 @@
   font-size: 20px;
   font-weight: bold;
 }
+
+body {
+  background-color: #0dd1a7;
+}
+
+#container {
+  width: 200px;
+  height: 200px;
+  background-color: #2b05d8;
+  border: 20px palegreen solid;
+  border-radius: 200px;
+  margin-top: 1px;
+}
+
+.tenor-gif-embed {
+  width: 100px;
+  height: 100px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
